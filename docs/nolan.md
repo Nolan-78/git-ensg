@@ -1,5 +1,4 @@
 2005
-
-![Logo Git](images/MjAyNTExZGQ3YjQ5MmNlMzUzMjg0OTkyZDZiNDZiNmNjMjU1MWU.avif)
-
-hop la tu croyais avoir la vie facile !
+Né à Versailles
+Habite à Rambouillet et Champs-sur-Marne
+![Mbappe](images/MjAyNTExZGQ3YjQ5MmNlMzUzMjg0OTkyZDZiNDZiNmNjMjU1MWU.avif)
