@@ -17,6 +17,7 @@ coouuuuccccooooouuuuu
 
 Git est notamment utilisé pour le code informatique, mais ce sont avant tout des fichiers textes. 
 Nathan?
+nononon
 
 ## Installation
 
