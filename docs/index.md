@@ -11,6 +11,9 @@ TEST MODIFICATION
 - de garder un historique de toutes les modifications faites
 - de partager des fichiers de manière publique ou privée
 - et bien plus encore
+- Et on peut même faire n'importe quoi
+
+Est-ce que ça va marcher ?
 coouuuuccccooooouuuuu
 
 ![Logo Git](images/Vosges.jpg)
@@ -18,6 +21,8 @@ coouuuuccccooooouuuuu
 **Git est un logiciel libre et open-source, qui ne repose pas sur un serveur centralisé**. Chaque personne d’un projet a donc sa propre copie du projet en local et peut être la référence pour les autres. Malgré tout, il est très fréquent d’utiliser un serveur intermédiaire comme Gitlab ou Github, qui sont des services d’hébergement de fichiers, et qui rendent le partage plus simple.
 
 Git est notamment utilisé pour le code informatique, mais ce sont avant tout des fichiers textes. 
+nononon sisisisisi
+ksqnfdjbsqviyobdsiqovbdiysq
 Nathan? Modif pour Romain
 
 ## Installation
@@ -335,3 +340,5 @@ Exemple d’intégration de Git dans Visual Studio Code
 
 - [Concepts Git sous forme de jeu](https://learngitbranching.js.org/)
 - [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3)
+
+mouhahahahaahah je suis diabolique
